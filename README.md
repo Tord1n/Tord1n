@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Tord1n/Tord1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BOAS VINDAS AO MEU PERFIL  
+ 
+Meu nome é Joao Tordin  
+-estou estudando na Alura  
+-estou me desenvolvendo em linguagem JavaScript  
+-utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos  
+ 
+VOCE PODE ENTRAR EM CONTATO COMIGO  
+(19) 22489-9871 
+![](link)
